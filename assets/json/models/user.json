@@ -1,0 +1,21 @@
+{
+  "key": "",
+  "email":"",
+  "userId": "",
+  "displayName": "",
+  "userName": "",
+  "webSite": "",
+  "profilePicture": "",
+  "bannerImage": "",
+  "contact": "",
+  "bio": "",
+  "location": "",
+  "dob": "",
+  "createdAt": "",
+  "isVerified": false,
+  "followersCount": 0,
+  "followingCount": 0,
+  "fcmToken": "",
+  "followingList": ["",""],
+  "followersList": ["",""]
+}

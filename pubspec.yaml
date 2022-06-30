@@ -40,6 +40,8 @@ dependencies:
   cloud_firestore: ^3.1.18
   firebase_storage: ^10.2.18
   firebase_database: ^9.0.16
+  get: ^4.6.5
+  twitter_login: ^4.2.3
 
 dev_dependencies:
   flutter_test:
